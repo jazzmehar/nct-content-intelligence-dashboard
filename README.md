@@ -49,4 +49,3 @@ This is an independent portfolio demonstration. Sample records, names and metric
 
 B.Sc. (Hons.) Mathematics | Data Analytics | Media Intelligence
 
-GitHub: [Your GitHub Profile](https://github.com/)
